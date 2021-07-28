@@ -1,5 +1,1 @@
-# Docs
-
-Info about the contents of the docs folder
-
-making a change
+# DocsInfo about the contents of the docs foldermaking a changeMaking a change as well 
